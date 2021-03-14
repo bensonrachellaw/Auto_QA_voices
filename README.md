@@ -3,7 +3,7 @@ Python 3.6-flag: making a voice dialogue question answering robot system (WEB ve
 
 首先，本项目分为制作语音机器人后台部分和利用flask搭建网页部分。
 博客地址：https://blog.csdn.net/bensonrachel/article/details/107794695
-
+![avatar](https://img-blog.csdnimg.cn/20200804184331269.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10，text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JlbnNvbnJhY2hlbA==,size_16,color_FFFFFF,t_70)
 制作语音机器人：
 
 本系统的功能有：与图灵机器人进行对话；设置闹钟（计时器）；播放本地音乐：机器写古诗；
