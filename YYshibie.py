@@ -92,8 +92,8 @@ def listen():
 
 # 3、与机器人对话：调用的是图灵机器人
 # 图灵机器人的API_KEY、API_URL
-#turing_api_key = "1ea9d2342e6846da91f91dfe8f070039"
-turing_api_key = "57e0543fbeed4553acb60d0f84cae832"
+#turing_api_key = "***"
+turing_api_key = "***"
 api_url = "http://openapi.tuling123.com/openapi/api/v2"  # 图灵机器人api网址
 headers = {'Content-Type': 'application/json;charset=UTF-8'}
 
