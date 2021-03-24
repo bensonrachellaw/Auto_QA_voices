@@ -36,9 +36,9 @@ def my_record(rate=16000):
 # 2、音频文件转文字：采用百度的语音识别python-SDK
 # 导入我们需要的模块名，然后将音频文件发送给出去，返回文字。
 # 百度语音识别API配置参数
-APP_ID = '21182611'
-API_KEY = 'jlGviUkPLHnR3PoHhX3Am7RQ'
-SECRET_KEY = 'PQGt4jEMNQbGN7UOH2rYVXPkaDHBGzVG'
+APP_ID = '***'
+API_KEY = '***'
+SECRET_KEY = '***'
 client = AipSpeech(APP_ID, API_KEY, SECRET_KEY)
 path = 'C:\\Users\87253\PycharmProjects\YYshibie\\voices\myvoices.wav'#按照这格式自行改本地路径
 musicPath = r"C:\CloudMusic\易烊千玺 - 宝贝.mp3"#自行改本地歌曲路径
